@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2",
+    "plume-sig": "^2.0.9"
+  }
+}

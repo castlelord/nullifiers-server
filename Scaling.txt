@@ -1,0 +1,23 @@
+Scaling:
+
+Traditional problem of vertical vs horizontal scaling
+
+Triangle of Decentralization, Security, Scalability (choose two)
+
+Sharding: parallel subledgers, less decentralization
+
+ideally, each shard is seperate blockchain
+
+less security, as 51% attack much easier
+
+nodes need verified id (hard in decentralized)
+
+how to do cross shard transactions?
+
+Fruitchains: split tansactions and conssensus blocks
+
+Uniconsensus: reread
+
+
+
+
